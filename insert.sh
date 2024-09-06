@@ -1,1 +1,1 @@
-echo "Merge Test" >> /tmp/MERGE
+echo "Merge Test" >> /tmp/MERGE/merge.txt
