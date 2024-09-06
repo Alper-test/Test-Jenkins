@@ -1,1 +1,1 @@
-hostnamectl
+timedatectl
