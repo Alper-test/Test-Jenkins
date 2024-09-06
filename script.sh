@@ -1,1 +1,2 @@
 timedatectl
+uname -a
