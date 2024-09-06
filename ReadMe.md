@@ -1,1 +1,1 @@
-uname -a
+hostnamectl
