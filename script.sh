@@ -1,2 +1,2 @@
 timedatectl
-uname -a
+uname -r
